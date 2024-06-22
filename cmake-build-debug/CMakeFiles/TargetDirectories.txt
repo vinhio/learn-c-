@@ -1,0 +1,3 @@
+/Users/vinh/C++/hello-cpp/cmake-build-debug/CMakeFiles/hello_cpp.dir
+/Users/vinh/C++/hello-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vinh/C++/hello-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
